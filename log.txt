@@ -1,0 +1,5 @@
+4c0f3ea (HEAD -> main) README'ye ödev detayları yaz.
+67607d8 Öğrenciler ve hobilerini oluştur.
+d5adbf7 Öğrenci ve hobileri listesi başlığı at.
+2a9ec88 index.html oluştur.
+40ad2f1 README.md oluştur.
